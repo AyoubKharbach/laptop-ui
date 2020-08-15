@@ -186,13 +186,7 @@ nav {
   .nav-links {
     justify-content: space-between;
   }
-  .logo-container {
-    flex: 1;
-  }
-  nav {
-    flex: 3;
-  }
-  .cart {
-    flex: 1;
-  }
 }
+
+
+/*# sourceMappingURL=/style.e308ff8e.css.map */
